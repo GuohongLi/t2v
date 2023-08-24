@@ -1,1 +1,1 @@
-# t2v
+# text2voice fastapi server with bark
