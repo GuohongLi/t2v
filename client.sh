@@ -1,4 +1,4 @@
-curl --location 'http://127.0.0.1:5001/audio' \
+curl --location 'https://8doo1uicssumlx-5001.proxy.runpod.net/audio' \
 --header 'Content-Type: application/json' \
 --data '{
     "prompt": "[happy],I have a silky smooth voice, and today I will tell you about the exercise regimen of the common sloth.",

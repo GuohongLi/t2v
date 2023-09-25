@@ -1,4 +1,5 @@
-# export XDG_CACHE_HOME=***/models
+import os
+os.system("export XDG_CACHE_HOME=/workspace/work/t2v/models")
 
 from bark import SAMPLE_RATE, generate_audio, preload_models
 
